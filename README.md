@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 📫 How to reach me: 1987kerykery@mail.ru
- 🌱 I’m currently learning: Developer - Frontend development (React). Technological specialization.
- 👯 I'm looking for an opportunity to start working as a front-end developer.
+ - 📫 How to reach me: 1987kerykery@mail.ru
+ - 🌱 I’m currently learning: Developer - Frontend development (React). Technological specialization.
+ - 👯 I'm looking for an opportunity to start working as a front-end developer.
